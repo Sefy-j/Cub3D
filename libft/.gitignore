@@ -1,0 +1,7 @@
+main.c
+a.out
+libft.a
+*.o
+a.out*
+test*
+
